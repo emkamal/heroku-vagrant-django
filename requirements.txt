@@ -1,0 +1,13 @@
+Django==1.10
+django-environ==0.4.0
+django-extensions==1.7.1
+django-model-utils==2.5.2
+djangorestframework==3.4.4
+gunicorn==19.6.0
+ipython==5.1.0
+psycopg2==2.6.2
+six==1.10.0
+virtualenv==15.0.3
+virtualenv-clone==0.2.6
+virtualenvwrapper==4.7.1
+whitenoise==3.2.1
